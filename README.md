@@ -1,5 +1,5 @@
 
-#My Blog#
+MY APP
 
 In this project I have created a app page where I
  intreducing the "Check on me" app and showing its ability to show locations and communicate with people around the map
